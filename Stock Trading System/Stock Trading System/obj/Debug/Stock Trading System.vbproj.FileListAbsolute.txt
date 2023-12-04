@@ -1,0 +1,133 @@
+C:\Users\Satyam\source\repos\Stock Trading System\Stock Trading System\bin\Debug\UserDB.mdf
+C:\Users\Satyam\source\repos\Stock Trading System\Stock Trading System\bin\Debug\UserDB_log.ldf
+C:\Users\Satyam\source\repos\Stock Trading System\Stock Trading System\bin\Debug\Stock Trading System.exe.config
+C:\Users\Satyam\source\repos\Stock Trading System\Stock Trading System\bin\Debug\Stock Trading System.exe
+C:\Users\Satyam\source\repos\Stock Trading System\Stock Trading System\bin\Debug\Stock Trading System.pdb
+C:\Users\Satyam\source\repos\Stock Trading System\Stock Trading System\bin\Debug\Stock Trading System.xml
+C:\Users\Satyam\source\repos\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.vbprojAssemblyReference.cache
+C:\Users\Satyam\source\repos\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Login.resources
+C:\Users\Satyam\source\repos\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Resources.resources
+C:\Users\Satyam\source\repos\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Register.resources
+C:\Users\Satyam\source\repos\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Welcome.resources
+C:\Users\Satyam\source\repos\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.vbproj.GenerateResource.cache
+C:\Users\Satyam\source\repos\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.vbproj.CoreCompileInputs.cache
+C:\Users\Satyam\source\repos\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.exe
+C:\Users\Satyam\source\repos\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.xml
+C:\Users\Satyam\source\repos\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.pdb
+C:\Users\Satyam\source\repos\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.UserProfile.resources
+C:\Users\Satyam\source\repos\Stock Trading System\Stock Trading System\bin\Debug\Guna.UI2.dll
+C:\Users\Satyam\source\repos\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Inventory.resources
+C:\Users\Satyam\source\repos\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.SellStock.resources
+C:\Users\Satyam\source\repos\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Stocks.resources
+C:\Users\Satyam\source\repos\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.BuyStock.resources
+C:\Users\Satyam\source\repos\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.vbproj.CopyComplete
+C:\Users\Satyam\Documents\Stock Trading System\Stock Trading System\bin\Debug\UserDB.mdf
+C:\Users\Satyam\Documents\Stock Trading System\Stock Trading System\bin\Debug\UserDB_log.ldf
+C:\Users\Satyam\Documents\Stock Trading System\Stock Trading System\bin\Debug\Stock Trading System.exe.config
+C:\Users\Satyam\Documents\Stock Trading System\Stock Trading System\bin\Debug\Stock Trading System.exe
+C:\Users\Satyam\Documents\Stock Trading System\Stock Trading System\bin\Debug\Stock Trading System.pdb
+C:\Users\Satyam\Documents\Stock Trading System\Stock Trading System\bin\Debug\Stock Trading System.xml
+C:\Users\Satyam\Documents\Stock Trading System\Stock Trading System\bin\Debug\Guna.UI2.dll
+C:\Users\Satyam\Documents\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.vbprojAssemblyReference.cache
+C:\Users\Satyam\Documents\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Inventory.resources
+C:\Users\Satyam\Documents\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Login.resources
+C:\Users\Satyam\Documents\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Resources.resources
+C:\Users\Satyam\Documents\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Register.resources
+C:\Users\Satyam\Documents\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.SellStock.resources
+C:\Users\Satyam\Documents\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Stocks.resources
+C:\Users\Satyam\Documents\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.BuyStock.resources
+C:\Users\Satyam\Documents\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.UserProfile.resources
+C:\Users\Satyam\Documents\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Welcome.resources
+C:\Users\Satyam\Documents\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.vbproj.GenerateResource.cache
+C:\Users\Satyam\Documents\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.vbproj.CoreCompileInputs.cache
+C:\Users\Satyam\Documents\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.vbproj.CopyComplete
+C:\Users\Satyam\Documents\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.exe
+C:\Users\Satyam\Documents\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.xml
+C:\Users\Satyam\Documents\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.pdb
+C:\Users\Satyam\Documents\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.BuyGraph.resources
+C:\Users\Satyam\Documents\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.SellGraph.resources
+C:\Users\rushi\Downloads\Stock Trading System\Stock Trading System\bin\Debug\UserDB.mdf
+C:\Users\rushi\Downloads\Stock Trading System\Stock Trading System\bin\Debug\UserDB_log.ldf
+C:\Users\rushi\Downloads\Stock Trading System\Stock Trading System\bin\Debug\Stock Trading System.exe.config
+C:\Users\rushi\Downloads\Stock Trading System\Stock Trading System\bin\Debug\Stock Trading System.exe
+C:\Users\rushi\Downloads\Stock Trading System\Stock Trading System\bin\Debug\Stock Trading System.pdb
+C:\Users\rushi\Downloads\Stock Trading System\Stock Trading System\bin\Debug\Stock Trading System.xml
+C:\Users\rushi\Downloads\Stock Trading System\Stock Trading System\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\rushi\Downloads\Stock Trading System\Stock Trading System\bin\Debug\Guna.UI2.dll
+C:\Users\rushi\Downloads\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.vbprojAssemblyReference.cache
+C:\Users\rushi\Downloads\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.BuyGraph.resources
+C:\Users\rushi\Downloads\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Inventory.resources
+C:\Users\rushi\Downloads\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Login.resources
+C:\Users\rushi\Downloads\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Resources.resources
+C:\Users\rushi\Downloads\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Register.resources
+C:\Users\rushi\Downloads\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.SellGraph.resources
+C:\Users\rushi\Downloads\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.SellStock.resources
+C:\Users\rushi\Downloads\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Stocks.resources
+C:\Users\rushi\Downloads\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.BuyStock.resources
+C:\Users\rushi\Downloads\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.UserProfile.resources
+C:\Users\rushi\Downloads\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Welcome.resources
+C:\Users\rushi\Downloads\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.vbproj.GenerateResource.cache
+C:\Users\rushi\Downloads\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.vbproj.CoreCompileInputs.cache
+C:\Users\rushi\Downloads\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.vbproj.CopyComplete
+C:\Users\rushi\Downloads\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.exe
+C:\Users\rushi\Downloads\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.xml
+C:\Users\rushi\Downloads\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.pdb
+C:\Users\Satyam\Documents\Project After Design\Stock Trading System with design\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.vbprojAssemblyReference.cache
+C:\Users\Satyam\Documents\Project After Design\Stock Trading System with design\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.BuyGraph.resources
+C:\Users\Satyam\Documents\Project After Design\Stock Trading System with design\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Report.resources
+C:\Users\Satyam\Documents\Project After Design\Stock Trading System with design\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Inventory.resources
+C:\Users\Satyam\Documents\Project After Design\Stock Trading System with design\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Login.resources
+C:\Users\Satyam\Documents\Project After Design\Stock Trading System with design\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Register.resources
+C:\Users\Satyam\Documents\Project After Design\Stock Trading System with design\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.SellGraph.resources
+C:\Users\Satyam\Documents\Project After Design\Stock Trading System with design\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.SellStock.resources
+C:\Users\Satyam\Documents\Project After Design\Stock Trading System with design\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Stocks.resources
+C:\Users\Satyam\Documents\Project After Design\Stock Trading System with design\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.BuyStock.resources
+C:\Users\Satyam\Documents\Project After Design\Stock Trading System with design\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.UserProfile.resources
+C:\Users\Satyam\Documents\Project After Design\Stock Trading System with design\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Welcome.resources
+C:\Users\Satyam\Documents\Project After Design\Stock Trading System with design\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.vbproj.GenerateResource.cache
+C:\Users\Satyam\Documents\Project After Design\Stock Trading System with design\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.exe
+C:\Users\Satyam\Documents\Project After Design\Stock Trading System with design\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.xml
+C:\Users\Satyam\Documents\Project After Design\Stock Trading System with design\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.pdb
+C:\Users\Satyam\Documents\Project After Design\Stock Trading System with design\Stock Trading System\Stock Trading System\bin\Debug\UserDB.mdf
+C:\Users\Satyam\Documents\Project After Design\Stock Trading System with design\Stock Trading System\Stock Trading System\bin\Debug\UserDB_log.ldf
+C:\Users\Satyam\Documents\Project After Design\Stock Trading System with design\Stock Trading System\Stock Trading System\bin\Debug\Stock Trading System.exe.config
+C:\Users\Satyam\Documents\Project After Design\Stock Trading System with design\Stock Trading System\Stock Trading System\bin\Debug\Stock Trading System.exe
+C:\Users\Satyam\Documents\Project After Design\Stock Trading System with design\Stock Trading System\Stock Trading System\bin\Debug\Stock Trading System.pdb
+C:\Users\Satyam\Documents\Project After Design\Stock Trading System with design\Stock Trading System\Stock Trading System\bin\Debug\Stock Trading System.xml
+C:\Users\Satyam\Documents\Project After Design\Stock Trading System with design\Stock Trading System\Stock Trading System\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Satyam\Documents\Project After Design\Stock Trading System with design\Stock Trading System\Stock Trading System\bin\Debug\Guna.UI2.dll
+C:\Users\Satyam\Documents\Project After Design\Stock Trading System with design\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Resources.resources
+C:\Users\Satyam\Documents\Project After Design\Stock Trading System with design\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.vbproj.CoreCompileInputs.cache
+C:\Users\Satyam\Documents\Project After Design\Stock Trading System with design\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.vbproj.CopyComplete
+C:\Users\Satyam\Documents\Software Engineering Project\Stock Trading System with Design\Stock Trading System\Stock Trading System\bin\Debug\UserDB.mdf
+C:\Users\Satyam\Documents\Software Engineering Project\Stock Trading System with Design\Stock Trading System\Stock Trading System\bin\Debug\UserDB_log.ldf
+C:\Users\Satyam\Documents\Software Engineering Project\Stock Trading System with Design\Stock Trading System\Stock Trading System\bin\Debug\Stock Trading System.exe.config
+C:\Users\Satyam\Documents\Software Engineering Project\Stock Trading System with Design\Stock Trading System\Stock Trading System\bin\Debug\Stock Trading System.exe
+C:\Users\Satyam\Documents\Software Engineering Project\Stock Trading System with Design\Stock Trading System\Stock Trading System\bin\Debug\Stock Trading System.pdb
+C:\Users\Satyam\Documents\Software Engineering Project\Stock Trading System with Design\Stock Trading System\Stock Trading System\bin\Debug\Stock Trading System.xml
+C:\Users\Satyam\Documents\Software Engineering Project\Stock Trading System with Design\Stock Trading System\Stock Trading System\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Satyam\Documents\Software Engineering Project\Stock Trading System with Design\Stock Trading System\Stock Trading System\bin\Debug\Guna.UI2.dll
+C:\Users\Satyam\Documents\Software Engineering Project\Stock Trading System with Design\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.vbprojAssemblyReference.cache
+C:\Users\Satyam\Documents\Software Engineering Project\Stock Trading System with Design\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.BuyGraph.resources
+C:\Users\Satyam\Documents\Software Engineering Project\Stock Trading System with Design\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Report.resources
+C:\Users\Satyam\Documents\Software Engineering Project\Stock Trading System with Design\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Inventory.resources
+C:\Users\Satyam\Documents\Software Engineering Project\Stock Trading System with Design\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Login.resources
+C:\Users\Satyam\Documents\Software Engineering Project\Stock Trading System with Design\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Resources.resources
+C:\Users\Satyam\Documents\Software Engineering Project\Stock Trading System with Design\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Register.resources
+C:\Users\Satyam\Documents\Software Engineering Project\Stock Trading System with Design\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.SellGraph.resources
+C:\Users\Satyam\Documents\Software Engineering Project\Stock Trading System with Design\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.SellStock.resources
+C:\Users\Satyam\Documents\Software Engineering Project\Stock Trading System with Design\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Stocks.resources
+C:\Users\Satyam\Documents\Software Engineering Project\Stock Trading System with Design\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.BuyStock.resources
+C:\Users\Satyam\Documents\Software Engineering Project\Stock Trading System with Design\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.UserProfile.resources
+C:\Users\Satyam\Documents\Software Engineering Project\Stock Trading System with Design\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Welcome.resources
+C:\Users\Satyam\Documents\Software Engineering Project\Stock Trading System with Design\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.vbproj.GenerateResource.cache
+C:\Users\Satyam\Documents\Software Engineering Project\Stock Trading System with Design\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.vbproj.CoreCompileInputs.cache
+C:\Users\Satyam\Documents\Software Engineering Project\Stock Trading System with Design\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.vbproj.CopyComplete
+C:\Users\Satyam\Documents\Software Engineering Project\Stock Trading System with Design\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.exe
+C:\Users\Satyam\Documents\Software Engineering Project\Stock Trading System with Design\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.xml
+C:\Users\Satyam\Documents\Software Engineering Project\Stock Trading System with Design\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.pdb
+D:\project\StockTradingSystem-main\Stock Trading System\Stock Trading System with Design\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.vbproj.AssemblyReference.cache
+D:\project\StockTradingSystem-main\Stock Trading System\Stock Trading System with Design\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.vbproj.SuggestedBindingRedirects.cache
+D:\project\StockTradingSystem-main\Stock Trading System\Stock Trading System with Design\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.exe
+D:\project\StockTradingSystem-main\Stock Trading System\Stock Trading System with Design\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.xml
+D:\project\StockTradingSystem-main\Stock Trading System\Stock Trading System with Design\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.pdb
